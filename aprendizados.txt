@@ -1,0 +1,3 @@
+Aprendendo:
+git branch (mostra todas as branches)
+
